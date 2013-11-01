@@ -1,0 +1,12 @@
+# bundler
+.bundle
+
+# for MacOS
+.DS_Store
+
+# for TextMate
+*.tmproj
+tmtags
+
+*.sublime-project
+*.sublime-workspace
